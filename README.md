@@ -11,7 +11,7 @@ O'yin yaratish uchun asosan 3 narsa kerak:
 2. Bilim
 3. Voqt
 
-Davomi:
+va:
 1. Yaxshi nom kerak, Iloji boricha bir nasafga aytiladigan nom topish kerak.
 2. Platforma tanlaysiz va Janrham tanlaysiz
 
@@ -34,8 +34,15 @@ Davomi:
   * ...
 va hokozo...
 
-![Youtube: Cyberstars](./c263a4c2ecdb87a4785632c6afd8a0bb.png)
+## 3. Dizayn turi
+Realistic yoki Casual
+![Youtube: Cyberstars](./2196f2d5ad4028873ea2cec7ad9a75e7.png)
+yoki Sujetniy Rol yaratasiz yani:
+![Youtube: Cyberstars](./c63c0daef952305fcc3ff1f393b79aec.png)
+
+
+
 
 
 ## GameDevs Professialari:
-![Image](./c391b0a22f5c1e46d62c8274a21ced6e.jpg)
+![Youtube: Cyberstars](./c391b0a22f5c1e46d62c8274a21ced6e.jpg)
