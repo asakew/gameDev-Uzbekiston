@@ -40,10 +40,15 @@ Realistic yoki Casual
 yoki Sujetniy Rol yaratasiz yani:
 ![Youtube: Cyberstars](./c63c0daef952305fcc3ff1f393b79aec.png)
 
-## Kerak bo'ladigan Dasturlash turlari
+## Kerak bo'ladigan Dasturlash tillari
 * C++
 * C#
 * Java
+va kodni rendinglashga esa DirectX va OpenGL
+
+![Youtube: Cyberstars](./74035df0e1742e3d38c50163b379d295.png)
+
+## 
 
 
 ## GameDevs Professialari:
