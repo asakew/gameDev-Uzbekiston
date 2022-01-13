@@ -13,11 +13,21 @@ O'yin yaratish uchun asosan 3 narsa kerak:
 
 Davomi:
 1. Yaxshi nom kerak, Iloji boricha bir nasafga aytiladigan nom topish kerak.
-2. Janr: 
+2. Platforma tanlaysiz va Janrham tanlaysiz
+
+## Platformalar
+* Kompyuter
+* Brauzer
+* O'yin pristafkalar: Playstation, XBox...
+* Mobil: Android, iOS
+
+## O'yini o'ynalish turi, onlayn yoki oflayn
+* Bir foydalanuvchi
+* Ko'p foydalanuvchi
+
 ![Image](./c263a4c2ecdb87a4785632c6afd8a0bb.png)
 
-
-
+## Janr
 
 ## GameDevs Professialari:
 ![Image](./c391b0a22f5c1e46d62c8274a21ced6e.jpg)
