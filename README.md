@@ -25,9 +25,17 @@ Davomi:
 * Bir foydalanuvchi
 * Ko'p foydalanuvchi
 
-![Image](./c263a4c2ecdb87a4785632c6afd8a0bb.png)
-
 ## Janr
+* Ekshin:
+  * ...
+* Simulator:
+  * ...
+* Miya mashqlar:
+  * ...
+va hokozo...
+
+![Youtube: Cyberstars](./c263a4c2ecdb87a4785632c6afd8a0bb.png)
+
 
 ## GameDevs Professialari:
 ![Image](./c391b0a22f5c1e46d62c8274a21ced6e.jpg)
