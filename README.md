@@ -10,6 +10,7 @@ O'yin yaratish uchun asosan 3 narsa kerak:
 1. Idea
 2. Bilim
 3. Voqt
+4
 
 va:
 1. Yaxshi nom kerak, Iloji boricha bir nasafga aytiladigan nom topish kerak.
@@ -37,7 +38,7 @@ va hokozo...
 ## 3. Dizayn turi
 Realistic yoki Casual
 ![Youtube: Cyberstars](./2196f2d5ad4028873ea2cec7ad9a75e7.png)
-yoki Sujetniy Rol yaratasiz yani:
+yoki Sujetniy, Rol yaratasiz yani:
 ![Youtube: Cyberstars](./c63c0daef952305fcc3ff1f393b79aec.png)
 
 ## Kerak bo'ladigan Dasturlash tillari
@@ -46,8 +47,7 @@ yoki Sujetniy Rol yaratasiz yani:
 * Java
 va kodni rendinglashga esa DirectX va OpenGL
 
-![Youtube: Cyberstars](./74035edf0e1742e3d38c50163b379d295.png)
-
+![Unkown](./ebcc7ec9c6a027c1174311610b7b933b.jpg)
 ## 
 
 
