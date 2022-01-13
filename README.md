@@ -46,7 +46,7 @@ yoki Sujetniy Rol yaratasiz yani:
 * Java
 va kodni rendinglashga esa DirectX va OpenGL
 
-![Youtube: Cyberstars](./74035df0e1742e3d38c50163b379d295.png)
+![Youtube: Cyberstars](./74035edf0e1742e3d38c50163b379d295.png)
 
 ## 
 
